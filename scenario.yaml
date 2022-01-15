@@ -79,18 +79,16 @@ scenario:
   # guesses is an array of the words you've guessed so far
   guesses:
     - adieu
-    - liars
-    - cabin
   # knownPositions is a five character array that contains
   # the letters you know are correct (greens)
-  knownPositions: [null,'a',null,'i',null]
+  knownPositions: [null,null,null,null,null]
 
   # knownPositions is a nested array of arrays, with each array
   # containing a letter we know is in the word, but at a position
   # we known is wrong (yellows)
   knownButNotInPositions:
-    - ['c','a']
-    - ['i']
-    - ['i','a']
     - []
-    - ['n']
+    - []
+    - []
+    - []
+    - []

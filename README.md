@@ -13,11 +13,15 @@ You'll need [a version of Node.js](https://nodejs.org/en/) to run this program. 
 
 ## To Use
 
-To run the program, just type
+To run the program, just install your dependencies with npm
+
+    $ npm install
+
+and then run the program
 
     $ node helper.js
 
-at your command prompt.  However, before you do that, you'll need to fill out the scenario.yaml file that comes with the repo. This file contains information about the state of your current guesses.
+ However, before you do that, you'll need to fill out the scenario.yaml file that comes with the repo. This file contains information about the state of your current guesses.
 
     # File: scenario.yaml
     scenario:
