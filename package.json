@@ -1,0 +1,21 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solver.js",
+  "scripts": {
+    "test": "tap tests",
+    "lint": "eslint ./**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-google": "^0.14.0",
+    "tap": "^15.1.6"
+  }
+}
