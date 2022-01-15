@@ -2,7 +2,7 @@
 
 Despite liking words, I'm not great at word based games.  Scrabble, Jumble, etc. -- anything that requires exact spelling and a knowledge of the sometimes contradictory rules of the english language isn't something I'm naturally good at.  As a result, I tend to skip most word games, which means I never exercise the skills needed to get better at them.
 
-So when [Wordle](https://www.powerlanguage.co.uk/wordle/) came along I felt left out of the fun.  One thing I can do is program, so I decided to create up a helper program that would let me play through each day's puzzle but have the computer do the heavy lifting for me.
+So when [Wordle](https://www.powerlanguage.co.uk/wordle/) came along I felt left out of the fun.  One thing I can do is program, so I decided to create a helper program that would let me play through each day's puzzle but have the computer do the heavy lifting for me.
 
 This isn't a particularly sophisticated program and might even contain bugs -- but it lets me work through the puzzles and not feel left out of the game.  I don't, however, post the results anywhere because
 
@@ -65,7 +65,7 @@ which, by the way, represents a puzzle that looks like this
 
     [IMAGE]
 
-then running the helper would return the only two words that are left for the puzzle to be (bringing a small to the faces of goths and punks of a certain age)
+then running the helper would return the only two words that are left as valid solutions (bringing a small to the face of goths and punks of a certain age)
 
     $ node helper.js
     panic
