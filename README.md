@@ -63,7 +63,7 @@ As you fill out this file and run `node helper.js`, the program will return a li
 
 which, by the way, represents a puzzle that looks like this
 
-    [IMAGE]
+![wordle](https://user-images.githubusercontent.com/184372/149635955-953f8dec-35e2-4b82-b264-7f4ed1f14f60.png)
 
 then running the helper would return the only two words that are left as valid solutions (bringing a small to the face of goths and punks of a certain age)
 
